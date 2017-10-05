@@ -11,7 +11,7 @@
 
         }
         function metode4(){
-            
+           echo "xD"; 
         }
         function metode5(){
             
