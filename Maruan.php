@@ -11,7 +11,7 @@
             }            
         //Metodes
 
-           public function getRama(){
+           public function getRama(){ 
 
         // Retornem el atribut preu
                 return $this->precio;
