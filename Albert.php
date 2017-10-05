@@ -27,12 +27,16 @@ class Verdura {
    {
        return $this->comestible;
    }
-
+   
+   //fede
+   
    function qué_color()
    {
+       
        return $this->color;
+       
    }
-
+//alex
 } 
 class Espinaca extends Verdura {
 
@@ -40,13 +44,13 @@ class Espinaca extends Verdura {
 
    function Espinaca()
    {
-       $this->Verdura(true, "verde");
+       $this->Verdura(true, "amarillo");
    }
 
   
 } 
 
 ?>
-        ?>
+        
     </body>
 </html>
