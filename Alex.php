@@ -11,7 +11,21 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        //dckjdhbjvef
+        Class Alex {
+            public function alex() {
+                return "alex";
+            }
+        
+            public function cognom() {
+                return "garcia";
+            }
+            
+            public function color() {
+                return "blau";
+            }
+            
+
+        }    
         ?>
     </body>
 </html>
