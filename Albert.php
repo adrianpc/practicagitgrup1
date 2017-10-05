@@ -44,6 +44,7 @@ class Espinaca extends Verdura {
 
    function Espinaca()
    {
+       $this->Verdura(true, "amarillo");
        $this->Verdura(true, "verde");
    }
 
