@@ -28,7 +28,7 @@ class Verdura {
        return $this->comestible;
    }
    
-   
+   //fede
    
    function qué_color()
    {
