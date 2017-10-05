@@ -17,7 +17,7 @@ and open the template in the editor.
             }
         
             public function cognom() {
-                return "cabello";
+                return "garcia";
             }
             
             public function color() {
