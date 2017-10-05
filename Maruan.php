@@ -19,7 +19,7 @@
             
            public function getColor(){
 
-        // Retornem el atribut pieza
+        // Retornem el atribut felicitat lliure
                 return $this->pieza;
             }	            
              
