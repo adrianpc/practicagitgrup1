@@ -27,10 +27,12 @@ class Verdura {
    {
        return $this->comestible;
    }
-
+   
    function qué_color()
    {
+       
        return $this->color;
+       
    }
 
 } 
@@ -47,6 +49,6 @@ class Espinaca extends Verdura {
 } 
 
 ?>
-        ?>
+        
     </body>
 </html>
