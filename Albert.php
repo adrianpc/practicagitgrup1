@@ -28,6 +28,8 @@ class Verdura {
        return $this->comestible;
    }
    
+   
+   
    function qué_color()
    {
        
