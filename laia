@@ -54,7 +54,7 @@ class laiamateu{
     }
     
     public function metodeDeAdria(){
-        echo('Esto es un metodo que creara conflicto')
+        echo('Modifico el echo para dar conflicto');
     }
 }
 ?>
