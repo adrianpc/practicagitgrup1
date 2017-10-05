@@ -22,7 +22,7 @@
         // Retornem el atribut pieza
                 return $this->pieza;
             }	            
-            
+             
            public function getLongitud(){
 
         // Retornem informació
